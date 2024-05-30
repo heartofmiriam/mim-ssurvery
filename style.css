@@ -1,0 +1,44 @@
+h1{
+color:#2296FB;
+font-family: 'Pacifico';
+background-color:#F1EFCA;
+text-align: center;
+opacity: 0.5;
+width:auto;
+max-width:500px;
+min-width: auto;
+margin:auto;
+}
+
+body{
+background-image: url(https://i.pinimg.com/736x/ea/b6/61/eab661a3f2dad7895c80a15559b8282f.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+font-family:'Twinkle Star';
+color:#EC58C0;
+text-align: center;
+}
+
+p{
+color:#EC58C0;
+text-align: center;
+background-color: #EAC3AD;
+opacity: 0.8;
+width:auto;
+max-width:500px;
+min-width: auto;
+margin:auto;
+}
+
+form,label{
+  width:auto;
+  max-width:500px;
+  min-width: auto;
+  margin:auto;
+  background-color:e6ffff;
+  opacity: 0.9;
+  height: auto;
+  max-height: 500px;
+  min-height: auto;
+}
